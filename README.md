@@ -294,3 +294,6 @@ Este proyecto es educativo y está diseñado para fines de enseñanza.
 
 **Para más información, consulta `GUIA_ESTUDIANTE.md`**
 
+## uso de Ngrok para llegar a la solución
+usamos el servicio  que proporciona Ngrok par apoder llegar a la solucion, esto devido a que estamos trabajando en redes distintas 
+
